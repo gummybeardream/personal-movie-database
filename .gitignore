@@ -32,3 +32,22 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Local datasets and databases
+*.csv
+*.duckdb
+*.db
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local build output
+bin/
+personal-movie-database
+
+# macOS metadata
+.DS_Store
+
